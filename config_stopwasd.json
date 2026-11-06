@@ -1,0 +1,15 @@
+{
+  "trigger": {
+    "type": "m",
+    "name": "left"
+  },
+  "keys": [
+    "w",
+    "a",
+    "s",
+    "d"
+  ],
+  "mode": "hold",
+  "block_ms": 150,
+  "restore": true
+}
